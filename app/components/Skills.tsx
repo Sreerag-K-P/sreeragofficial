@@ -24,7 +24,7 @@ const Skills = () => {
         <SkillInput title="Npm" link="" />
         <SkillInput title="Node" link="" />
         <SkillInput title="Netlify" link="" />
-        <SkillInput title="Sanity" link="" />
+        <SkillInput title="Vscode" link="" />
       </div>
     </div>
   );
