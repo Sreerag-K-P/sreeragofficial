@@ -6,6 +6,7 @@ import restorent from "@/public/img/projects/Restaurant Home.png";
 import threads from "@/public/img/projects/threads-app-tau-sooty.vercel.app_.png";
 import bookstore from "@/public/img/projects/book-store-mern-stack-s5oc-eb4b26epu-sreerag-k-p.vercel.app_.png";
 import portfolio from "@/public/img/projects/localhost_3000_.png";
+import parel from "@/public/img/projects/parel.png";
 
 import gpt3 from "@/public/img/projects/gpt3.png";
 import metaversus from "@/public/img/projects/MacBook Pro - 2.png";
@@ -14,6 +15,11 @@ const Projects = () => {
     <div className="wrapper">
       <Title text="Projects" icon={<FaProjectDiagram />} />
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 place-items-center">
+        <ProjectCard
+          title="Parel creative -landing page clone"
+          link="https://sreerag-k-p.github.io/Procreativeclonesite/"
+          img={parel.src}
+        />
         <ProjectCard
           title="NikeShoes landing page"
           link="https://nikeshoes-landing-page.vercel.app/"

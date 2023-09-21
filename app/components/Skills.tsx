@@ -15,13 +15,16 @@ const Skills = () => {
         <SkillInput title="React" link="https://react.dev/" />
         <SkillInput title="Tailwind css" link="https://tailwindcss.com/" />
         <SkillInput title="Typescript" link="https://www.typescriptlang.org/" />
-        <SkillInput title="HTML" link="" />
+        <SkillInput title="HTML5" link="" />
         <SkillInput title="CSS" link="" />
         <SkillInput title="Git" link="" />
         <SkillInput title="Sanity" link="" />
         <SkillInput title="Mongodb" link="" />
         <SkillInput title="Vercel" link="" />
-        <SkillInput title="Python" link="" />
+        <SkillInput title="Npm" link="" />
+        <SkillInput title="Node" link="" />
+        <SkillInput title="Netlify" link="" />
+        <SkillInput title="Sanity" link="" />
       </div>
     </div>
   );
