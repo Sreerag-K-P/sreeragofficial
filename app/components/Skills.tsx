@@ -22,7 +22,8 @@ const Skills = () => {
         <SkillInput title="Mongodb" link="" />
         <SkillInput title="Vercel" link="" />
         <SkillInput title="Npm" link="" />
-        <SkillInput title="Node" link="" />
+        <SkillInput title="Express" link="" />
+        <SkillInput title="Node js" link="" />
         <SkillInput title="Netlify" link="" />
         <SkillInput title="Vscode" link="" />
       </div>
