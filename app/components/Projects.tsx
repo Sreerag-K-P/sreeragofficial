@@ -7,7 +7,7 @@ import threads from "@/public/img/projects/threads-app-tau-sooty.vercel.app_.png
 import bookstore from "@/public/img/projects/book-store-mern-stack-s5oc-eb4b26epu-sreerag-k-p.vercel.app_.png";
 import portfolio from "@/public/img/projects/localhost_3000_.png";
 import parel from "@/public/img/projects/parel.png";
-
+import ibm from "@/public/img/projects/ibm.png";
 import gpt3 from "@/public/img/projects/gpt3.png";
 import metaversus from "@/public/img/projects/MacBook Pro - 2.png";
 const Projects = () => {
@@ -19,6 +19,11 @@ const Projects = () => {
           title="Parel creative -landing page clone"
           link="https://sreerag-k-p.github.io/Procreativeclonesite/"
           img={parel.src}
+        />
+        <ProjectCard
+          title="IBM landing page clone"
+          link="https://ibm-sreerag.vercel.app/"
+          img={ibm.src}
         />
         <ProjectCard
           title="NikeShoes landing page"
