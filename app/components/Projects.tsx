@@ -24,7 +24,7 @@ const Projects = () => {
         />
         <ProjectCard
           title="Youtube-clone"
-          link="https://youtube-next-n98iv2ga6-sreerag-k-p.vercel.app"
+          link="https://youtube-next-git-main-sreerag-k-p.vercel.app/New"
           img={youtube.src}
         />
         <ProjectCard
