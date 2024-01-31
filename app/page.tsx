@@ -6,6 +6,15 @@ import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Sreerag K P | React Developer",
+  description: "full stack developer",
+  alternates: {
+    canonical: "https://sreeragofficial.vercel.app/",
+  },
+};
 
 export default function Home() {
   return (
